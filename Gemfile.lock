@@ -713,7 +713,7 @@ GEM
     kgio (2.11.0)
     launchy (2.4.2)
       addressable (~> 2.3)
-    letter_opener (1.2.0)
+    letter_opener (1.7.0)
       launchy (~> 2.2)
     loofah (2.4.0)
       crass (~> 1.0.2)
